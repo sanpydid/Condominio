@@ -5,3 +5,5 @@ Esercitazione per gestire gli appartementi di un condominio
 usando:
 1. la *programmazione a oggetti* 
 2. il formato di interscambio per i dati CSV.
+
+# Si veda anche il file ESERCITAZIONE_CONDOMINIO.pdf
